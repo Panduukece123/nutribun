@@ -57,7 +57,7 @@ const HomePage = () => {
       name: 'Paket',
       description: 'Rasa strawberry + Rasa Susu membuat rasa makin enak dan harga makin murah',
       image: '25k.png',
-      price: 'Rp 13K',
+      price: 'Rp 25k',
       category: 'signature',
       tag: 'promo'
     },
